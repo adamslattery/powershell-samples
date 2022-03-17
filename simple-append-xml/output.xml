@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<catalog>
+  <main>
+    <item id="test 1">
+      <title>title</title>
+    </item>
+    <item id="test 2">
+      <title>title</title>
+    </item>
+    <item id="test 3">
+      <title>title</title>
+    </item>
+  </main>
+</catalog>
